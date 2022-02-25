@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reflections upon our late and present proceedings in England</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58376</idno>
+            <idno type="STC">Wing R722</idno>
+            <idno type="STC">ESTC R32278</idno>
+            <idno type="EEBO-CITATION">12611305</idno>
+            <idno type="OCLC">ocm 12611305</idno>
+            <idno type="VID">64390</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58376)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64390)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1534:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reflections upon our late and present proceedings in England</title>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Revolution of 1688.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64390:1"/>
+            <pb facs="tcp:64390:1" rendition="simple:additions"/>
+            <p>REFLECTIONS UPON Our Late and Preſent PROCEEDINGS IN ENGLAND.</p>
+            <figure>
+               <figDesc>depiction of lion</figDesc>
+            </figure>
+            <p>
+               <hi>London:</hi> Printed in the YEAR 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:64390:2"/>
+            <pb n="3" facs="tcp:64390:2"/>
+            <head>REFLECTIONS Upon our Late and Preſent PROCEEDINGS IN <hi>ENGLAND.</hi>
+            </head>
+            <p>THO no Man wiſhes better to the <hi>Proteſtant Religion</hi> in general, and the <hi>Church of England</hi> in particular, than I do, yet I cannot prevail with my ſelf to approve all thoſe Methods, or follow all thoſe meaſures, which ſome Men propoſe as the only Security both of the one and the other.</p>
+            <p>Never perhaps was there a more proper time, wherein to ſecure our Religion (together with our Civil Liberties) than now of<g ref="char:EOLhyphen"/>fers it ſelf; if we have but the Skill and Honeſty rightly to im<g ref="char:EOLhyphen"/>prove this critical Opportunity; but if we ſhall either let it ſlip, or abuſe it, we may, in vain, hereafter wiſh that we had been wiſe in time, and have cauſe to repent of our Error, when it will be too late to correct it.</p>
+            <p>What we do now, will tranſmit its good or ill effects to after-Ages; and our Children yet unborn, will, in all probability, be happy or miſerable, as we ſhall behave our ſelves in this <hi>great Con<g ref="char:EOLhyphen"/>juncture.</hi> They are likely to enjoy their Religion, Laws, and Li<g ref="char:EOLhyphen"/>berties, according to the old <hi>Engliſh</hi> Standard, if we ſhall now take the right courſe to ſecure them.</p>
+            <pb n="4" facs="tcp:64390:3"/>
+            <p>But if we do engage in wrong Counſels, and build upon falſe foun<g ref="char:EOLhyphen"/>dations, inſtead of a Bleſſing we may leave a Curſe to our Poſte<g ref="char:EOLhyphen"/>rity, and entail upon them Popery, Slavery, Arbitrary Power, and all the miſerable Conſequences of a <hi>divided Kingdom,</hi> which (as ſure as the Word of God is true) <hi>can never ſtand.</hi>
+            </p>
+            <p>Let us not therefore be too haſty, but pauſe a while, let us make a ſtop, look about us, and conſider, 1. What we have done. 2. With what intent we did it. 3. What it is that ſome Men would be at: and 4. Whether we can in Honor and Conſcience joyn with them in the Deſigus now in hand.</p>
+            <p>I ſhall confine my ſelf to theſe Heads: But here before I en<g ref="char:EOLhyphen"/>ter upon any of them, I ſhall take it for granted, that the Prince of <hi>Orange</hi> hath done a great thing for us, and (under God) hath wrought ſuch a Deliverance for the Nation, as ought never to be forgotten, and can never be ſufficiently requited. He muſt be mentioned with Honor and Gratitude, ſo long as the Prote<g ref="char:EOLhyphen"/>ſtant Name ſhall be remembred: He came not as the ancient <hi>Romans</hi> and <hi>Saxons,</hi> to conquer; and lead in Triumph after him our Religion and Laws, our Lives and Liberties; but to defend, preſerve and ſecure us in them all. To this end he undertook this dangerous and chargeable Expedition, which hath hitherto prov<g ref="char:EOLhyphen"/>ed as much to our Advantage, as it will be to his laſting Repu<g ref="char:EOLhyphen"/>tation: What he has done argues, that he is moved by an higher Principle than any this World affords, and can over look his own Eaſe and Security when the publick Good, and the Concerns of Chriſtianity require his ſeaſonable Aſſiſtance. I could eaſily make a Panegyrick upon his Virtues, and equal him to the moſt fa<g ref="char:EOLhyphen"/>mous <hi>Grecian</hi> or <hi>Roman</hi> Captains; but I need not ſet forth his Praiſes, which do ſo loudly, and yet ſo filently ſpeak for them<g ref="char:EOLhyphen"/>ſelves. I need not draw any tedious Parallels betwixt his <hi>Highneſs</hi> and the <hi>Worthies</hi> of other Ages, ſince I am, I queſtion not, herein prevented by all who have read the Hiſtory of former times, and are Witneſſes of what he (with ſo much Courage, Mildneſs, and Prudence) hath done in this.</p>
+            <p n="1">1. Things proſpered ſo well under his Conduct, that all of us were ready to ſubmit our ſelves to his Direction, and come under his Protection, as the <hi>Tutelar Genius of the Nation.</hi> The effects of his Enterprize have been ſo ſtrange, ſo wonderful and
+<pb n="5" facs="tcp:64390:3"/>ſurpriſing, that had we not ſeen, we ſhould ſcarce have believed them.</p>
+            <p>As ſoon as the Prince was landed, with what Joy and univerſal good Wiſhes was the News received? How forward were all ſorts of People to declare for his Highneſs? How willing were they to lend him an helping hand for the accompliſhing his great Work? How did we all generally concur and unanimouſly agree to for<g ref="char:EOLhyphen"/>get our Obligations to our Sovereign, and aſſiſt the Prince, rather than the King againſt our ſelves, and his own true Intereſt?</p>
+            <p>Nay, the Army it ſelf ſoon began to go over, chooſing rather to lye under the imputation of Cowardiſe and Diſloyalty (which yet a <hi>true-Engliſh-Man</hi> had rather dye than really deſerve) than to be inſtrumental in enſlaving their <hi>Native Country,</hi> and bringing it again under the <hi>Papal Yoke.</hi>
+            </p>
+            <p>In ſhort, all Orders of Men, Eccleſiaſtick, Civil, and Military, had their eyes fix'd upon the Prince of <hi>Orange,</hi> as their Common Deliverer, were reſolved to eſpouſe his Cauſe; and accordingly (after the King was withdrawn) did put the <hi>Regal Adminiſtra<g ref="char:EOLhyphen"/>tion</hi> into his hands.</p>
+            <p n="2">2. So far we have gone; this we have done; and we hope that (the Caſe being extraordinary, and Neceſſity giving a Diſpen<g ref="char:EOLhyphen"/>ſation) the intent of our proceeding, will at leaſt excuſe, if not juſtifie us, if we have not kept our ſelves within the <hi>Common Laws</hi> of action.</p>
+            <p>For, Let every Man lay his Hand upon his Heart, and ſeriouſly ask himſelf, for what reaſon, and with what intent he became a Party in this general Defection? Was it utterly to ruin the King and ſubvert the Government? Was it becauſe he was diſpleas'd with the ancient Conſtitution, and had a mind to mould and fa<g ref="char:EOLhyphen"/>ſhion it to his liking? Was it becauſe he had an intent to ſhake off the Government (that <hi>eaſie, equal, and well poiſed, and never e<g ref="char:EOLhyphen"/>nough to be commended Government,</hi> as King CHARLES I. calls it) of the <hi>Engliſh</hi> Nation? Was it any honeſt Man's meaning to ſub<g ref="char:EOLhyphen"/>vert this Government, to make way for his own Dreams of ſome <hi>Poetical Golden-Age,</hi> or a <hi>Fanciful-Millenium?</hi>
+            </p>
+            <p>Was it (let me ask again) to diveſt the King of all Power to protect his Subjects, and then to pronounce roundly, that all the Bonds of Allegiance to him are diſſolved? Was the end of our
+<pb n="6" facs="tcp:64390:4"/>uniting together, to bind his Hands, and then prick this Doctrin upon the points of our Swords: <hi>Protection and Allegiance are Duties ſo reciprocal, that where the one fails wholly, the other falls with it.</hi> Was it to frighten the King out of his Dominions, and then to vote that he hath <hi>Abdicated</hi> his Government? Was this the intent, and were theſe the Reaſons of our Declaring for the Prince of <hi>Orange?</hi> No, certainly; whatever ſome obnoxious and ambitious Men might aim at, all good Chriſtians and worthy Patriots had other intentions, and were led on by other Motives.</p>
+            <p>They were ſenſibly concerned for the preſervation of their Holy Religion, in the firſt place; their Lives, their Laws, and Liber<g ref="char:EOLhyphen"/>ties in the next. <hi>After the way, which ſome call Hereſie, ſo</hi> were they deſirous ſtill <hi>to worſhip the God of their Fathers:</hi> And after that man<g ref="char:EOLhyphen"/>ner which ſome might ſay was <hi>Rebellion,</hi> ſo they thought themſelves oblig'd to ſtand up for the <hi>Laws and Liberties of their Forefathers.</hi>
+            </p>
+            <p>For theſe Ends, and for bringing about theſe worthy Purpoſes, they withdrew themſelves from the King's perſonal Service, that they might be the better enabled to ſerve his real Intereſt. They hoped by this means to deliver him from his evil Counſellors, and ſecure both him and his Subjects from the evil and pernicious Pra<g ref="char:EOLhyphen"/>ctices of ſome <hi>wicked and unreaſonable Men.</hi>
+            </p>
+            <p n="3">3. Theſe and ſuch like were the Inducements which prevailed with all well-affected and honeſt Men, to withdraw from his Ma<g ref="char:EOLhyphen"/>jeſty, and ſuſpend the actual exerciſe of their Allegiance for the preſent, that they might afterwards exert it according to the fix'd and ſtated Rules of Law, Conſcience, and right Reaſon.</p>
+            <p>But now, how contrary is this to thoſe New Models, which ſome politick Architects are propoſing to, or rather impoſing up<g ref="char:EOLhyphen"/>on the Nation? What is it they would be at? And what are the Ends they are driving on? Are they juſt and good? Are they generous and honorable? Or are they not rather ſuch as would undermine the Government both in Church and State, and reduce us to a ſtate of Nature, wherein the People are at liberty to agree upon any Government, or none at all?</p>
+            <p>Plainly, they would reduce us to the <hi>Dutch,</hi> or ſome other fo<g ref="char:EOLhyphen"/>reign Meaſures (which how well ſoever they may agree with that Country, where they are ſetled and confirmed, partly by Cuſtom, and partly by the peculiar Neceſſity of their Affairs) can never be
+<pb n="7" facs="tcp:64390:4"/>well received in <hi>England,</hi> till an Act be paſſed to aboliſh Monar<g ref="char:EOLhyphen"/>chy, Epiſcopacy, and all the Fundamental Laws eſtabliſh'd by <hi>Magna Charta,</hi> and all ſucceeding Parliaments ever ſince.</p>
+            <p>
+               <hi>The Enquiry into the Meaſures of Submiſſion to the Supreme Au<g ref="char:EOLhyphen"/>thority,</hi> is a Treatiſe calculated for the Times; but ſurely it is not written according to the Principles and Practice of the Church of <hi>England,</hi> in the time of the <hi>Renowned Queen Elizabeth:</hi> I am apt to think, that ſome regard was then had to the Paſſages which we find in the Scriptures (eſpecially the Old Teſtament) relating to the <hi>Meaſures of Submiſſion.</hi> But theſe Examples weigh nothing with our Author, becauſe they are not for his purpoſe, <hi>pag.</hi> 5, 6. I am alſo apt to ſuſpect that Queen <hi>Elizabeth</hi> would not have thanked any Politician for vending this as a certain and fundamental Principle, <hi>That in all Diſputes between Power and Liberty, Power muſt always be proved, but Liberty proves it ſelf; the one being founded only upon a poſitive Law, and the other upon the Law of Nature,</hi> pag. 4. She, I perſuade my ſelf, on the con<g ref="char:EOLhyphen"/>trary, would have challenged any ſuch Stateſman to have <hi>prov'd his Liberty;</hi> as for her <hi>Power</hi> (ſhe would have anſwered) it was ready to <hi>prove it ſelf</hi> againſt all who ſhould preſume to queſtion it. But what's the meaning of <hi>Power being founded only on a po<g ref="char:EOLhyphen"/>ſitive Law, and Liberty upon the Law of Nature?</hi> Is not a Father's Power founded (as he grants) upon the Law of Nature? and is not all Power, even of the greateſt Princes, (as far as it is juſt and honeſt, and for the benefit of the Subject) derived from this <hi>Paternal Authority</hi> of the Father over his Son? Beſides, Doth not the <hi>Law of Nature</hi> preſcribe the neceſſity of putting <hi>Power</hi> into the hands of one or more for the benefit of the whole, which otherwiſe would be in danger of deſtroying it ſelf by in<g ref="char:EOLhyphen"/>teſtine Diviſions? In ſhort, If Liberty be founded upon the <hi>Law of Nature,</hi> ſo is all <hi>juſt and lawful Power,</hi> ſince the end of it is only to regulate our Liberty, and in truth to make us more free. <hi>Liberty</hi> in general <hi>is a Right to uſe our Faculties according to right Reaſon;</hi> and the Law in particular tells us which are thoſe Rules of right Reaſon by which we muſt govern our ſelves. And what is Law, but the Commands of the Supreme Power (where<g ref="char:EOLhyphen"/>ever it is lodg'd, in the hands of the Prince, the Senate, or the People, or of all of them together) ordering what we are to do
+<pb n="8" facs="tcp:64390:5"/>or avoid, under the ſanction of particular Penalties?</p>
+            <p>I beg the Learned Author's Pardon for queſtioning his <hi>Meaſures:</hi> in my judgment they are not taken from the <hi>Engliſh Standard,</hi> and therefore, I hope, I may without offence uſe my <hi>Liberty</hi> in refuſing them <hi>(a Right which proves it ſelf)</hi> till he can prove his <hi>Power</hi> to impoſe them.</p>
+            <p>
+               <hi>The Enquiry into the preſent State of Affairs,</hi> is a Diſcourſe which ſeems (by its bold ſtrokes) to reſemble the former. I will ſay no more of it but this, If what he there lays down for a certain Truth be really ſo, then all that follows muſt be granted, as rea<g ref="char:EOLhyphen"/>ſonable Deductions from this fundamental Principle: but if this be falſe, all that he hath ſaid falls to the ground, for want of a firm and ſolid Foundation to ſupport it.</p>
+            <p>Now the Poſition, which (like a firſt Principle in Mathema<g ref="char:EOLhyphen"/>ticks) he takes for granted, is this, <hi>It is certain</hi> (ſays he, <hi>pag.</hi> 1.) <hi>that the reciprocal Duties in Civil Societies are Protection and Allegi<g ref="char:EOLhyphen"/>ance, and whereſoever the one fails wholly, the other falls with it.</hi> This is his Doctrine which I have mentioned before, but ſhall now conſider a little more particularly.</p>
+            <p>'Tis indeed moſt fit and reaſonable, that <hi>Protection</hi> and <hi>Allegi<g ref="char:EOLhyphen"/>ance</hi> ſhould always go together, and accompany one another; but that they do not do ſo, is but too plain in the preſent caſe of <hi>England:</hi> but doth it follow, that becauſe the King is not in a ca<g ref="char:EOLhyphen"/>pacity to protect his Subjects, therefore he is no longer to be look'd upon as a King? And if he be a King, doth not this ſup<g ref="char:EOLhyphen"/>poſe that he hath ſome Subjects? And if ſo, I would gladly know what kind of Subjects they are who owe no Allegiance?</p>
+            <p>But let this Queſtion be rul'd by his own Inſtance, <hi>The Duty betwixt Father and Son.</hi> Suppoſe my Father to be ſo deſtitute that he cannot, and ſo perverſe, that he will not protect and ſu<g ref="char:EOLhyphen"/>ſtain me; ſuppoſe him as churliſh as <hi>Cain,</hi> and as poor as <hi>Job;</hi> yet ſtill he is my Father and I am his Son; that is, he ſtill re<g ref="char:EOLhyphen"/>tains all that Power which (by the Law of Nature) as Father ought to have over his Child: ſtill the Relation holds betwixt us, and whilſt it doth ſo, the Father's Faults or Neceſſities cannot evacuate the Duty of a Son; which is founded not in the Fathers <hi>good Will or Abilities</hi> to defend him (though it muſt be confeſs'd they are chiefly conſider'd) but in that <hi>fix'd and immutable Rela<g ref="char:EOLhyphen"/>tion</hi>
+               <pb n="9" facs="tcp:64390:5"/>which God and Nature have eſtabliſh'd betwixt them, not to be <hi>diſſolv'd</hi> but by Death. So that if this Learned Author will yield (as he ſeems to do) that <hi>Kingly Power</hi> is nothing elſe but the <hi>Pa<g ref="char:EOLhyphen"/>ternal,</hi> confign'd (by the common conſent of the Fathers of Fa<g ref="char:EOLhyphen"/>milies) to one Perſon, upon ſuch and ſuch conditions, (ſpecified in the Contract;) I cannot ſee how this Relation betwixt <hi>King</hi> and <hi>Subject</hi> can any more be utterly diſſolved, than that betwixt a <hi>Father</hi> and <hi>his Son.</hi>
+            </p>
+            <p>I ſhall ſay no more to this Diſcourſe; and if what I have al<g ref="char:EOLhyphen"/>ready ſaid do offend either againſt the Principles of Reaſon, or the Law of <hi>England,</hi> I am willing to be corrected, and acknow<g ref="char:EOLhyphen"/>ledge my Error.</p>
+            <p>There is another little Paper which yet gives ſuch a great ſtroke to the Government, that it ought not to be paſs'd over with<g ref="char:EOLhyphen"/>out ſome Animadverſion. The Sheet which I mean is, that which is call'd <hi>Advice before it be too late,</hi> or, <hi>A Breviate for the Conven<g ref="char:EOLhyphen"/>tion.</hi> This Paper beſpeaks its Author to be of the ſame Comple<g ref="char:EOLhyphen"/>xion and Principles with him who writ <hi>The word to the Wiſe,</hi> and <hi>The four Queſtions debated.</hi> They do all of 'em ſuppoſe, that the Government is <hi>fall'n to its Centre, or Root from whence it ſprang,</hi> that is, to the People, (as the <hi>word to the Wiſe</hi> expreſſes our preſent caſe.) I know not what can be a more effectual Anſwer to theſe Pamphlets, and take away the Foundation upon which they ar<g ref="char:EOLhyphen"/>gue, than that Maxim in our Law, received by all honeſt and learned Lawyers, <hi>The King of England never dies.</hi> For if ſo, how is the Government laps'd? And if it be not laps'd, how can the Throne be ſaid to be vacant? And if the Throne be not vacant, we are ſtill a Body Politick, (conſiſting of Head and Members) though much diſtemper'd and out of order, by rea<g ref="char:EOLhyphen"/>ſon of the Infirmities of the Head. We ſtill live, though we are not in good health; and our Caſe doth not require the Sex<g ref="char:EOLhyphen"/>ton to make our Grave, but calls for the Phyſician to apply pro<g ref="char:EOLhyphen"/>per Remedies to cure our Diſeaſe. If the <hi>King can dye,</hi> 'tis ſuch a defect in our Government as doth ſtrangely diſparage it, and fur<g ref="char:EOLhyphen"/>ther ſuppoſes, that (which hitherto we are all to learn) the <hi>Crown</hi> is not <hi>Succeſſive.</hi>
+            </p>
+            <p>Now if it be ſucceſſive, it cannot be diſpoſed of by the <hi>Will of the People,</hi> but only by <hi>the Will of God,</hi> who in that very moment
+<pb n="10" facs="tcp:64390:6"/>calls the Lawful Heir to the Crown, wherein he is pleaſed to put a Period to the Life of his Predeceſſor. If it be ſaid that the Voice of the People is the Voice of God, I believe that (ſhould this be granted) it will not do their buſineſs: for I doubt not, but that if the Pole was taken, and the Queſtion put to all People who are of Years of Diſcretion; the Anſwer would be, That they have ſtill a King, and that they are as willing to keep him as they are deſirous to <hi>exclude Popery</hi> for ever; that which hath made both him and them ſo unhappy. This, I do not much queſtion, would be the Anſwer, if we ſhould appeal to the ſenſe of the People in general; who yet (if the Government be fall'n to them) muſt be allowed to have a Right of Suffrage, and a Liberty to ſpeak their Minds as freely as other <hi>Commoners</hi> in this <hi>great Convention.</hi>
+            </p>
+            <p>Further ſtill, If the <hi>King never dies</hi> by our Law, How can he be lawfully depos'd? For by Depoſition the Throne neceſſarily becomes void for ſome time. There muſt be ſome Interſtice, ſome ſpace of time, before they who depos'd a King can ſet up another; and till the King in Deſignation be actually inveſted with the Regal Office, there muſt of neceſſity be an <hi>Interregnum;</hi> that is, <hi>The King</hi> (contrary to the mind of our Law) <hi>may dye.</hi>
+            </p>
+            <p>The Government of <hi>England</hi> always ſuppoſes a <hi>Monarch regu<g ref="char:EOLhyphen"/>lated by Law,</hi> and therefore 'tis preſumed that he <hi>can do no wrong;</hi> that is, Though he may err, as well as other Mortals, yet the Law, of which he is the Guardian, brings no Accuſation againſt him, but only againſt his evil Miniſters. If therefore the King hath err'd, (as doubtleſs he hath very much) in God's Name let his Miniſters be called to an account; but why muſt the Go<g ref="char:EOLhyphen"/>vernment be diſſolved, and the King arraign'd, condemn'd, and depos'd, to make way for any new Scheme of Government what<g ref="char:EOLhyphen"/>ſoever, whether <hi>French, Italian,</hi> or <hi>Dutch?</hi>
+            </p>
+            <p>Our Hiſtory indeed affords two Examples ſince <hi>William</hi> the Firſt's time; that of <hi>Edward</hi> the Second, and the other of <hi>Richard</hi> the Second: but they did both of them actually reſign; and be<g ref="char:EOLhyphen"/>ſides, what they did, or was done to them, ought to preclude the Right of no ſucceeding Prince. Theſe Examples ought no more to be urged than the Stabbing King <hi>Henry the Fourth of
+<pb n="11" facs="tcp:64390:6"/>France,</hi> or the Murthering <hi>King</hi> CHARLES <hi>the Firſt of</hi> England.</p>
+            <p>The Hiſtorian, in the Life of <hi>Richard</hi> the Second, gives no very good Character of that Parliament, which paſs'd the Vote for this Depoſition: <hi>The Noblemen</hi> (ſays he) <hi>partly corrupted by Favor, partly aw'd by Fear, gave their Voices; and the Commons (commonly are like a flock of Cranes) as the firſt fly, all the followers do the like.</hi> Continuat. Dan. Hiſt. p. 46.</p>
+            <p>Let it be here obſerved, that I do not diſpute whether the King, together with his Parliament, may not regulate and entail the Succeſſion, as ſhall by them be thought fit; but only whether whilſt the King lives, whether the Throne can be vacant, and the Government be truly ſaid to be laps'd? This we deny: But how<g ref="char:EOLhyphen"/>ever, ſuppoſing that theſe things may be ſo, who can make ſo fair a Claim (and ſo generally ſatisfactory to the People) as the next Heir by proximity of Blood; I mean (if the Prince of <hi>Wales</hi> be proved ſuppoſititious) that incomparable Lady, the Prin<g ref="char:EOLhyphen"/>ceſs of <hi>Orange?</hi>
+            </p>
+            <p>Theſe Reflections I have thought fit to make upon ſome new Notions of our preſent States-Men, by which we gueſs what they would be at. In my opinion, I think it is but too evident, that they are taking advantage of our preſent Fears and Diſtractions, to run us into thoſe extremes which the State (as well as the Church) of <hi>England,</hi> hath always carefully avoided, and taken particular care to provide againſt.</p>
+            <p n="4">4. In this Deſign can we in Honor and Conſcience go along with them; whom yet we cannot but highly eſteem and value for their Learning and Parts, and more eſpecially for their happy and ſucceſsful Labors, in reſcuing us from thoſe groſs Corruptions of Chriſtian Religion, and Human Nature, Popery, and Slavery?</p>
+            <p>But ſhall we run into Popery, and perhaps Slavery too, when we have been ſo long ſtriving againſt both, and are now (thanks be to God) in a great meaſure freed from the Danger of either? And is not the Depoſing a Popiſh Doctrin? And is it not as Anti<g ref="char:EOLhyphen"/>chriſtian for <hi>any Aſſembly</hi> to put it into practice, as it was for the <hi>Council of Lateran</hi> at firſt to eſtabliſh it?</p>
+            <p>And as for <hi>Slavery,</hi> muſt not a ſtanding Army be neceſſarily kept up, to maintain a Title founded only upon the conſent of the
+<pb n="12" facs="tcp:64390:7"/>fickle and uncertain People (granting that the major part of them are willing?) And in ſuch a Caſe muſt we not be beholden to the <hi>Goodneſs of the Prince,</hi> rather than the <hi>Protection of our Laws,</hi> if an Arbitrary and Deſpotick Power be not again in<g ref="char:EOLhyphen"/>troduced?</p>
+            <p>We have, as yet, no Law which wholly diſables and excludes a Popiſh Succeſſor from the Throne; and till we have one (which I queſtion not but we ſhall have ſoon) I do not ſee how we can diſanul the King's Title, or vacate his <hi>Regal Capacity,</hi> howſoever his <hi>Power</hi> may be reſtrained. Innovations without f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rmer prece<g ref="char:EOLhyphen"/>dent, are always dangerous, eſpecially thoſe of this nature. It will be much more wiſe, as well as ſafe, to bear with ſome In<g ref="char:EOLhyphen"/>conveniencies, than bring upon our ſelves thoſe Miſchiefs, which ſuch unparallel'd Proceedings may produce.</p>
+            <p>The Prince of <hi>Orange</hi> in his additional Declaration hath theſe Words: <hi>We are confident, that no Perſons can have ſuch hard thoughts of us, as to imagin that we have any other Deſign in this undertaking, than to procure a Settlement of the Religion, and of the Liberties and Properties of the Subjects upon ſo ſure a foundation, that there may be no danger of the Nation's relapſing into the like Miſeries at any time hereafter.</hi>
+            </p>
+            <p>How far ſome Perſons may extend this Clauſe <hi>(That there may be no danger of the Nation's relapſing into the like Miſeries for the future)</hi> I cannot tell; but for any one to underſtand it ſo; as if his Highneſs meant, that there could be no ſecurity againſt the <hi>Nation's Relapſe,</hi> if the King be not depoſed, and he himſelf put into poſſeſſion of the Throne, is (I am ſure) an Interpretation very diſadvantageous to his Honor, and looks more like a Jeſui<g ref="char:EOLhyphen"/>tical Equivocation, than that Candor and Chriſtian Sincerity, which hath brightned and rendered illuſtrious all the Actions of his Highneſs, both at home and abroad.</p>
+            <p>The Anſwerer alſo to the Reflecter upon his Highneſs's Decla<g ref="char:EOLhyphen"/>ration, will not permit us to harbour any ſuch Suſpicions, as if a Crown was the End of this Expedition. <hi>All ſuch</hi> (ſays he, pag. 23, 24.) <hi>as believe the Prince of</hi> Orange <hi>has brought this Ar<g ref="char:EOLhyphen"/>my, and intends to make War upon</hi> England, <hi>and ſubdue it to his mere Will and Pleaſure, trample all Laws both divine and human under feet,</hi> dethrone his preſent Majeſty, and make himſelf King;
+<pb n="13" facs="tcp:64390:7"/>
+               <hi>they will ſtay and fight for him</hi> (ſc. <hi>the King</hi>) <hi>or at leaſt to the beſt of their power, in ſome manner aſſiſt and help him: On the contrary, ſuch as believe that the Prince's meaning is nothing of all this,</hi> &amp;c.</p>
+            <p>Here, you ſee, that this Author (who, 'tis to be ſuppoſed, was not unacquainted with the Prince's intentions) utterly rejects it, as a falſe imputation, that his Highneſs came to <hi>dethrone his pre<g ref="char:EOLhyphen"/>ſent Majeſty, and make himſelf King.</hi> Nay, he thought himſelf obliged ſo fully to declare againſt this ſcandalous Report, that he ſeems to have encouraged all thoſe who believed it: <hi>To ſtay and fight for the King; or at leaſt, to the beſt of their power, in ſome manner aſſiſt and help him.</hi> So far was this Gentleman from en<g ref="char:EOLhyphen"/>tertaining any ſuch thoughts of the Prince's Expedition; which ſome Men, nevertheleſs, do now ſo induſtriouſly labor to make the effect of it.</p>
+            <p>There is another thing which makes well meaning Men apt to ſuſpect the preſent management, and with-holds them from cloſing with it ſo fully, as otherwiſe, its probable they might do. That Paper which goes under the Title of the <hi>Prince's Third Decla<g ref="char:EOLhyphen"/>ration,</hi> is (as I am credibly informed) none of his, and is diſ<g ref="char:EOLhyphen"/>owned by the Prince himſelf. Now this pretended Declaration (coming out when the Army was in ſuch a dubious Condition, and fluctuating betwixt the King and the Prince) did more harm to the King's Affairs, than all the other Papers (I believe) pub<g ref="char:EOLhyphen"/>liſhed at that time.</p>
+            <p>And if this was no real, but a ſham-Declaration, and yet was permitted without Contradiction; 'tis plain that Sophiſtry and Tricks are made uſe of, as lawful Policies, and that any kind of means are permitted, if they will but do the buſineſs, and ſerve the preſent turn. This makes plain and honeſt Men, who have no Ends to ſerve, but what are juſt, and are willing to uſe no kind of Means but what are ſo: This makes them ſhie and cau<g ref="char:EOLhyphen"/>tious of engaging too far in thoſe Deſigns, which they ſee car<g ref="char:EOLhyphen"/>ried on by crafty and deceitful Artifices, working under a Military Power and Force ready to defend them.</p>
+            <p>I might mention the great number of Papiſts in the <hi>Dutch</hi> Ar<g ref="char:EOLhyphen"/>my, as another diſſwaſive from venturing our ſelves in this bot<g ref="char:EOLhyphen"/>tom: We are afraid of Papiſts of all ſorts and of all Countries, <hi>German</hi> and <hi>Dutch;</hi> as well as <hi>French</hi> and <hi>Iriſh;</hi> the Conſtitutions
+<pb n="14" facs="tcp:64390:8"/>of the one may be more harmleſs than of the other; but the Principles of both (we know) are equally deſtructive; and when occaſion ſerves, who knows but that the Principle may prevail over the Conſtitution, and the Papiſt get the better of the Dutch-Man? 'Tis ill truſting Popery in any ſhape: This is a Root, which whereever it is planted, can bring forth no good Fruit. The Bogs of <hi>Holland</hi> cannot (we think) make it leſs malignant, than thoſe of <hi>Ireland.</hi>
+            </p>
+            <p>To come to a concluſion, there remain ſeveral things to be cleared, before we can altogether comply with what is now pro<g ref="char:EOLhyphen"/>ſecuted with ſo much Zeal.</p>
+            <p>
+               <hi>That the</hi> Prince of W. <hi>is a ſuppoſititious Child: That a League was made by our King with the King of</hi> France <hi>for the Deſtruction of his Proteſtant Subjects, and rooting out our Religion, under the Notion of the Northern Hereſie: That the late King was poyſoned; and that the Earl of</hi> Eſſex <hi>was murthered.</hi> Theſe things, we deſire, may be proved; and then we cannot but agree, that nothing can be too bad for the guilty Authors.</p>
+            <p>Theſe are ſuch damnable Villanies, ſuch horrid Crimes, that both the Principals and Acceſſories ought to be eſteemed, and treated no better than <hi>Tories</hi> and <hi>Banditi,</hi> Men of ſeared and pro<g ref="char:EOLhyphen"/>fligate Conſciences, forſaken of God, and Enemies to Mankind.</p>
+            <p>But then ſeeing theſe are ſuch heavy Accuſations and grievous Charges, they ought certainly to be well proved before they be believed, and produced as Arguments againſt the Life, Honor, and Eſtate of any Perſon: for <hi>ſi ſatis eſſet accuſaſſe,</hi> &amp;c. If it be enough to accuſe, where ſhould we find an innocent Perſon?</p>
+            <p>If theſe dreadful things can be made out, it would, I believe, not only confirm Proteſtants in their deſerved Deteſtation of Po<g ref="char:EOLhyphen"/>pery, but create even in the minds of honeſt Papiſts themſelves, an Averſation to their own Religion, when they ſhall ſee it contri<g ref="char:EOLhyphen"/>ving and executing ſuch cruel and unnatural <hi>Works of darkneſs.</hi>
+            </p>
+            <p>To ſee a Father ſetting up a pretended Son againſt the Intereſt of his own undoubted Children; to behold a King bargaining for the Deſtruction of his own Subjects; to repreſent to our Minds one Brother preparing the deadly Cup for the other, who yet ven<g ref="char:EOLhyphen"/>tur'd his Crown rather than he would <hi>exclude</hi> him from the hopes of it in <hi>Reverſion;</hi> to look upon the ſame Royal Perſon plotting
+<pb n="15" facs="tcp:64390:8"/>and managing the <hi>Aſſaſſination</hi> of a Captive and helpleſs Peer. Theſe are ſuch diſmal Sights and melancholick Scenes, ſo full of Horror and barbarous Cruelty, that they muſt needs make ſad Impreſſions upon the Hearts even of the boldeſt Spectators; inſo<g ref="char:EOLhyphen"/>much, that if they were proved, they would moſt effectually pre<g ref="char:EOLhyphen"/>judice all Men againſt the Author of ſuch monſtrous Barbarities, and go near to extinguiſh all Obligations of Duty which otherwiſe they might owe to his Perſon and Authority.</p>
+            <p>We muſt therefore call again for the proof of theſe things, or elſe we cannot (becauſe we ought not to) believe them upon bare Surmiſe and Hear-ſay. If theſe Accuſations be cleared once, who can reverence the Perſon guilty of them, as the Father of his Country, and not rather avoid and fly from him as the worſt of Tyrants?</p>
+            <p>But if theſe things be ſtill kept in the Clouds, and wrap'd up in uncertain Ambiguities, all wiſe Men will think that it would have been better, if they never had been mentioned; becauſe this doth but raiſe the People's Zeal for the preſent, which (if not kept up by real Evidence) will be apt to turn to the other Extream, and commiſerate the Cauſe which before it proſecu<g ref="char:EOLhyphen"/>ted with ſo much violence. The higher Men's Reſentments are raiſed by objecting the moſt notorious Crimes, the lower will they fall, if Truth and plain matter of Fact doth not back and maintain them. And this is an Advantage which I would not have us give our Adverſaries in theſe things, no more than we have done in the matters of Diſpute betwixt them and us. Here we have proved all our Charges againſt their Religion; let us therefore prove, or elſe not ſo eagerly inſiſt upon, theſe Accuſa<g ref="char:EOLhyphen"/>tions brought againſt their Perſons.</p>
+            <p>I ſhall add nothing further, but my real Wiſhes, That I could (though with the loſs of all that's dear to me in this World) con<g ref="char:EOLhyphen"/>tribute to the utter <hi>Excluſion of</hi> POPERY by all lawful means; and I do, and ſhall always pray for a Bleſſing upon their Deſigns, who ſincerely endeavour to <hi>procure a Settlement of the Religion, Li<g ref="char:EOLhyphen"/>berties and Properties of the Subjects, upon ſo ſure a foundation, that there may be no danger of the Nations relapſing into the like miſeries at any time hereafter.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
